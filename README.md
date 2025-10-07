@@ -5,6 +5,8 @@
 ## Project 2: Search- First VRO Buddy 
 
 
+---
+
 # VRO Buddy - VRO Buddy Avatar 
 
 ## 🤖 **Overview**
@@ -17,6 +19,8 @@
 2. Upload the static image `vro_avatar.png`
 3. Enter your intro script and click *Generate VRO Buddy Intro*.
 4. The app will create a multilingual lip-synced avatar video.
+
+---
 
 
 # 🛍️ VRO Buddy – Search-First AI Shopping Companion
