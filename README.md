@@ -42,6 +42,8 @@ This app was built as part of **Project 2: Search-First VRO Buddy**.
 
 ---
 
+Demo : https://searchvro.streamlit.app/
+
 ## 🧠 Features
 
 ✅ **Search-Based Discovery**  
