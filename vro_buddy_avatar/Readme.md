@@ -1,3 +1,6 @@
+# VRO Buddy Avatar
+
+
 **TTS Engine:** [ElevenLabs](https://elevenlabs.io)  
 **Lip-Sync Engine:** [D-ID API](https://www.d-id.com/)  
 **Languages Supported:** English, Hindi  
