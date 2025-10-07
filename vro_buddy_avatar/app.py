@@ -17,7 +17,7 @@ st.title("🤖 VRO Buddy Avatar")
 st.write("AI Avatar introducing VRO in English and Hindi with natural lip-sync.")
 
 # Static avatar image (provided)
-avatar_path = "vro_avatar.png"
+avatar_path = "result-pic-7.png"
 st.image(avatar_path, width=300, caption="VRO Buddy")
 
 # ------------------------------
