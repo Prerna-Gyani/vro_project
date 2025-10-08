@@ -19,3 +19,5 @@ An AI-powered virtual shopping companion that helps users find products using **
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+***Developed by Prerna Gyanchandani***
