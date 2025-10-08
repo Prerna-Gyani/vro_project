@@ -89,7 +89,7 @@ if "liked_items" in st.session_state and len(st.session_state["liked_items"]) > 
 st.markdown("---")
 st.caption("Developed as part of Project 2: Search-First VRO Buddy | Streamlit Prototype")
 st.markdown("---")
-    st.markdown("""
+st.markdown("""
     <div style='text-align: center;'>
         <p>Developed with ❤️ using Streamlit</p>
         <p>© 2025 Prerna Gyanchandani. All Rights Reserved.</p>
