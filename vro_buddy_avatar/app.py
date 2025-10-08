@@ -121,7 +121,7 @@ st.markdown("""
 # ------------------------------
 
 st.markdown("---")
-    st.markdown("""
+st.markdown("""
     <div style='text-align: center;'>
         <p>Developed with ❤️ using Streamlit</p>
         <p>© 2025 Prerna Gyanchandani.</p>
