@@ -71,3 +71,6 @@ Demo : https://searchvro.streamlit.app/
 ---
 
 #### *For best results run this project locally*
+
+
+# *Developed by Prerna Gyanchandani* 
