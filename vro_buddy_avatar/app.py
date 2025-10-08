@@ -114,3 +114,16 @@ st.markdown("""
 3. Enter your intro script and click *Generate VRO Buddy Intro*.
 4. The app will create a multilingual lip-synced avatar video.
 """)
+
+
+# ------------------------------
+# FOOTER 
+# ------------------------------
+
+st.markdown("---")
+    st.markdown("""
+    <div style='text-align: center;'>
+        <p>Developed with ❤️ using Streamlit</p>
+        <p>© 2025 Prerna Gyanchandani.</p>
+    </div>
+    """, unsafe_allow_html=True)
