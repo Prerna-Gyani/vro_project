@@ -9,3 +9,5 @@
 2. Upload the static image `vro_avatar.png`
 3. Enter your intro script and click *Generate VRO Buddy Intro*.
 4. The app will create a multilingual lip-synced avatar video.
+
+***Developed by Prerna Gyanchandani***
